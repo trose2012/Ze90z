@@ -1,0 +1,14 @@
+* {
+  color: #0FFF50;
+  font-family: Orbitron;
+  text-align: center;
+}
+
+body {
+  background-image: url('/images/bg.jpg');
+}
+
+div {
+  border-style: inset;
+  background-color: rgb(255, 0, 0);
+}
